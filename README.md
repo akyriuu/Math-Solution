@@ -1,5 +1,8 @@
 # Math Solution
 
+
+Play on: https://akyriuu.github.io/Math-Solution/
+
 A small browser-based math practice tool. The idea is simple: you get a random arithmetic question, type the answer, and move on. No score screen, no levels, just repetition.
 
 It covers addition, subtraction and multiplication with numbers from 1 to 12. If you get something wrong, the input clears so you can try again. If you get it right, the next question loads automatically.
