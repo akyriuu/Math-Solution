@@ -9,7 +9,7 @@ Built with TypeScript and plain HTML. Tailwind via CDN.
 
 ## Live
 
-https://[link do pages]
+https://akyriuu.github.io/Math-Solution/
 
 
 <img width="752" height="480" alt="mathsolution" src="https://github.com/user-attachments/assets/4eff7168-943f-4922-8579-0f7e5f3d9317" />
