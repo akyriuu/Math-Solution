@@ -6,18 +6,21 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <title>Let's go!</title>
   </head>
-  <body class="flex items-center justify-center min-h-screen bg-blue-200">
-    <div id="quiz" class="bg-gray-300 p-8 rounded-xl shadow-2xl text-center">
-      <p id="question" class="text-4xl font-bold mb-4"></p>
+  <body class="flex items-center justify-center min-h-screen bg-gray-950">
+    <div
+      id="quiz"
+      class="bg-gray-800 border border-gray-300 p-8 rounded-xl shadow-2xl text-center"
+    >
+      <p id="question" class="text-4xl font-bold mb-4 text-white"></p>
       <input
         type="number"
         id="answer"
-        class="border rounded p-2 w-full mb-4"
+        class="bg-gray-800 border border-gray-600 text-white rounded p-2 w-full mb-4 placeholder-gray-500"
         placeholder=""
       />
       <button
         id="submit"
-        class="bg-green-600 text-red-800 px-6 py-4 rounded hover:bg-green-800"
+        class="bg-green-700 text-white px-6 py-4 rounded hover:bg-green-500 transition-colors duration-300"
       >
         Submit
       </button>

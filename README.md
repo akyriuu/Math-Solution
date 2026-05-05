@@ -1,17 +1,8 @@
 # Math Solution
 
-
-Play on: https://akyriuu.github.io/Math-Solution/
-
 A small browser-based math practice tool. The idea is simple: you get a random arithmetic question, type the answer, and move on. No score screen, no levels, just repetition.
 
-Says more about how I think than about what I can build
-
 It covers addition, subtraction and multiplication with numbers from 1 to 12. If you get something wrong, the input clears so you can try again. If you get it right, the next question loads automatically.
-
-
-<img width="496" height="288" alt="ezgif-82052a13c32b245a" src="https://github.com/user-attachments/assets/cbd1efca-284c-4967-8f35-2894eb7e8c47" />
-
 
 Built with TypeScript and plain HTML. Tailwind is used for styling via CDN, so no build step is needed for that.
 
